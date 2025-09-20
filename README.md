@@ -1,5 +1,4 @@
-[Retail sales data.xlsx](https://github.com/user-attachments/files/22086393/Retail.sales.data.xlsx)
-Retail Sales Data 
+
 
 
 <h2 align="left">Hi ,My name is Md Atick Hassan and I'm from satkhira, Bangladesh.Working as a Data Analyst.</h2>
